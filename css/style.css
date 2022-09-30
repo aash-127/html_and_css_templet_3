@@ -1412,7 +1412,7 @@ header .mega-box .links li a i {
 }
 
 .dots {
-    background-image: url(/imgs/dots.png);
+    background-image: url(../imgs/dots.png);
     background-repeat: no-repeat;
     height: 186px;
     width: 204px;
@@ -2009,7 +2009,7 @@ header .mega-box .links li a i {
     position: relative;
     z-index: 1;
     color: white;
-    background-image: url(/imgs/discount-background1.jpg);
+    background-image: url(../imgs/discount-background1.jpg);
     background-size: cover;
     animation: back-color 10s infinite linear;
     -webkit-animation: back-color 10s infinite linear;
@@ -2019,11 +2019,11 @@ header .mega-box .links li a i {
 
     0%,
     100% {
-        background-image: url(/imgs/discount-background1.jpg);
+        background-image: url(../imgs/discount-background1.jpg);
     }
 
     50% {
-        background-image: url(/imgs/discount-background2.jpg);
+        background-image: url(../imgs/discount-background2.jpg);
     }
 
 }
