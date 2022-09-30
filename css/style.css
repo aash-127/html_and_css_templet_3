@@ -1891,7 +1891,7 @@ header .mega-box .links li a i {
     padding-top: 100px;
     padding-bottom: 100px;
     position: relative;
-    background-image: url(/imgs/stats.jpg);
+    background-image: url(../imgs/stats.jpg);
     background-size: cover;
     background-attachment: fixed;
     min-height: 300px;
